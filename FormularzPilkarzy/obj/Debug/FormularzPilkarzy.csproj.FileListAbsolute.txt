@@ -1,0 +1,15 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\bin\Debug\FormularzPilkarzy.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\bin\Debug\FormularzPilkarzy.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\bin\Debug\FormularzPilkarzy.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.csprojAssemblyReference.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\MainWindow.g.cs
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\App.g.cs
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy_MarkupCompile.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy_MarkupCompile.lref
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\MainWindow.baml
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.g.resources
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.Properties.Resources.resources
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.csproj.GenerateResource.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Programowanie_Obiektowe_i_Graficzne\FormularzPilkarzy\FormularzPilkarzy\obj\Debug\FormularzPilkarzy.pdb
